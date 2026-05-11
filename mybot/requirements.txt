@@ -1,0 +1,6 @@
+discord.py
+yt-dlp
+PyNaCl
+aiohttp
+async-timeout
+requests
